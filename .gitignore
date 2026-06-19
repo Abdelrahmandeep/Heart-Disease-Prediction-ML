@@ -28,10 +28,6 @@ desktop.ini
 # Large data files (too big for GitHub)
 *.xlsx
 
-# Model artifacts (too big for GitHub)
-outputs/*.pkl
-outputs/v2/*.pkl
-
 # Temp files
 *.tmp
 *_temp.*
