@@ -62,7 +62,7 @@ Heart-Disease-Prediction-ML/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/Heart-Disease-Prediction-ML.git
+git clone https://github.com/Abdelrahmandeep/Heart-Disease-Prediction-ML.git
 cd Heart-Disease-Prediction-ML
 ```
 
